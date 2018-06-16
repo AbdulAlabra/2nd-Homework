@@ -1,0 +1,67 @@
+
+body{
+    
+    background-image: url("https://fsmedia.imgix.net/7c/64/de/56/fb79/497e/b8ca/d146bcdd00ab/space-genetics-is-essential-making-life-in-space-work.jpeg");
+    width: 100%;
+    height:1500px;    
+}
+
+
+.container{ 
+  border-bottom: solid;
+    border-bottom-color:rgb(116, 116, 116);
+    color: whitesmoke;
+    margin-top: 25px;
+}
+
+
+h1{
+color: tan;
+margin-top: -10px;
+margin-left: 10%;
+}
+
+a:hover{
+    color: steelblue;
+}
+    
+.media{
+    color: whitesmoke;
+    margin-right: 53%;
+    text-align: justify;
+    margin-left: 3.5%;
+    margin-top: 30%;
+}
+.align-self-start{
+    height: 35%;
+    width: 40%;
+    /*hieght was 35%  */
+}
+
+.img1{
+    height: 75px;
+    width: 75px;
+}
+
+form{
+    color: whitesmoke;
+    margin-right: 60%;
+    text-align: justify;
+    margin-left: 3.5%;
+    margin-top: 30%;
+}
+h5 {
+    color: tan;
+    font-size: 30px;
+    word-spacing: 8px;
+   
+}
+.pic0{
+  border: none; 
+  margin-top: 10%; 
+}
+.pic{
+    height: 250px;
+    width: 250px;
+    margin: 20px;
+}
