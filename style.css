@@ -65,7 +65,14 @@ h5 {
 .pic0{
   border: none; 
   margin-top: 10%;
+  background: wheat;
+    opacity: 0.8;
+    /* margin: 0 auto;  */
+     width: 100%;  
    
+}
+.one{
+    text-align: center;
 }
 .pic{
     height: 250px;
@@ -77,4 +84,14 @@ h5 {
         width: 100%;
         
     }
+}
+@media screen and (max-width: 575px){
+
+
+.one{
+     text-align: center;
+
+}
+
+
 }
